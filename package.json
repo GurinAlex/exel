@@ -1,0 +1,25 @@
+{
+  "name": "exel",
+  "private": true,
+  "version": "1.0.0",
+  "description": "pure JS exel app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurinAlex/exel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "Gurin Alexandr <sashagurinn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GurinAlex/exel/issues"
+  },
+  "homepage": "https://github.com/GurinAlex/exel#readme"
+}
